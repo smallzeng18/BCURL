@@ -1,2 +1,2 @@
 # BCURL
-[ets](45.158.22.89:11272 "a")
+[Markdown语法](https://markdown.com.cn)
