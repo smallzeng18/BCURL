@@ -2,7 +2,7 @@
 
 MSLFrp美国节点<http://45.158.22.89:11272>
 
-Chml洛杉矶<http://http://vip.lsj.frp.one:46151/>
+Chml洛杉矶<http://vip.lsj.frp.one:46151/>
 
 *(优先使用)*  ChmlFrp美国<http://xg-3.frp.one:23530>
 
