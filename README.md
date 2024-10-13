@@ -2,11 +2,10 @@
 
 MSLFrp美国节点<http://45.158.22.89:11272>
 
-*(优先使用)*  ChmlFrp洛杉矶<http://ld.frp.one:48087>
+Chml洛杉矶<http://http://vip.lsj.frp.one:46151/>
 
 *(优先使用)*  ChmlFrp美国<http://xg-3.frp.one:23530>
 
-Openfrp香港节点<http://cn-hk-bgp-4.ofalias.net:36779/>
 
 测试场
 
